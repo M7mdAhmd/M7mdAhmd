@@ -74,6 +74,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </div>
 
+![snake gif](https://github.com/M7mdAhmd/M7mdAhmd/blob/output/github-snake-dark.svg)
+
 ###
 
 ### Connect with Me:
