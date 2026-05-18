@@ -1,8 +1,8 @@
 <h2 align="left">Hi! My name is Mohamed and I'm an AI Engineer.</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M7mdAhmd&theme=github_dark" height="180" alt="GitHub profile summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M7mdAhmd&theme=github_dark" height="160" alt="GitHub stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M7mdAhmd&theme=github_dark" height="145" alt="GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M7mdAhmd&theme=github_dark" height="145" alt="GitHub stats summary" />
 </div>
 
 <img align="right" height="150" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b76119zc5n5pl5y7log1z052hv6pf3q03o2l5ovelujvm&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
@@ -10,9 +10,9 @@
 ### About Me:
 
 - Computer Engineering student and AI Engineer.
-- Building AI and computer vision systems for real-world use cases.
+- Building AI, data science, and computer vision systems for real-world use cases.
 - Experienced with model training, experiment tracking, deployment, integration, Azure, and Git/GitHub workflows.
-- Interested in AI engineering, computer vision, MLOps, and reliable deployment.
+- Interested in AI engineering, data science, computer vision, MLOps, and reliable deployment.
 
 ### Skills:
 
