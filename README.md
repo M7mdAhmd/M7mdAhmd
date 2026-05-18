@@ -9,10 +9,10 @@
 
 ### About Me:
 
-- Computer Engineering student and AI Engineer.
-- Building AI, data science, and computer vision systems for real-world use cases.
-- Experienced with model training, experiment tracking, deployment, integration, Azure, and Git/GitHub workflows.
-- Interested in AI engineering, data science, computer vision, MLOps, and reliable deployment.
+- Computer Engineering student focused on AI engineering, machine learning, and data science.
+- Building practical computer vision and data-driven systems from experimentation to real-world use.
+- Experienced across model training, evaluation, experiment tracking, deployment, and system integration.
+- Interested in turning AI prototypes into reliable products with clean workflows, APIs, and scalable deployment.
 
 ### Skills:
 
